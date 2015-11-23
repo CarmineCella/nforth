@@ -5,3 +5,4 @@ src/.deps/
 src/Makefile
 src/nforth
 src/nforth.o
+autom4te.cache
